@@ -1,0 +1,23 @@
+{
+  "name": "react-study",
+  "version": "1.0.0",
+  "description": "react-study   node 20.10.0   pnpm 9.15.9",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.24",
+    "@types/react-dom": "18.3.7",
+    "@vitejs/plugin-react": "4.7.0",
+    "typescript": "5.9.2",
+    "vite": "6.3.6"
+  }
+}
